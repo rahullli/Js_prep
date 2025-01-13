@@ -33,7 +33,34 @@ export default class KanbanAPI {
             }
         })();
 
-        if(item)
+        if(!item){
+            throw new Error("Item not found");
+        }
+        item.content = newProps.content === undefined ? item.content : newProps.content;
+        if(newProps.columnId !== undefined && newProps.position !== undefined){
+            const targetColumn = data.find(column => column.id == newProps.columnId);
+            if(!targetColumn){
+                throw new Error("Target column does not exist");
+            }
+
+            // Delete the item from the current column
+            currentColumn.items.splice(currentColumn.items.indexOf(item),1);
+
+            // Move item into its new column and position
+            targetColumn.items.splice(newProps.position,0,item);
+        }
+        save(data);
+    }
+
+    static deleteItem(itemId){
+        const data = read();
+        for(const column of data){
+            const item = column.items.find(item => item.id == itemId);
+            if(item){
+                column.items.splice(column.items.indexOf(item),1);
+            }
+        }
+        save(data);
     }
 }
 
