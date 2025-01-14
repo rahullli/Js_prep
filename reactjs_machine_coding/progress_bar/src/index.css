@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  height: 20px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.progress {
+  position: absolute;
+  background: green;
+  height: 100%;
+  width: 100%;
+  transform: translateX(-100%);
+}
