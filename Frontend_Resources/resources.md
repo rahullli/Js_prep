@@ -18,3 +18,6 @@ Docker Desktop Alternative - https://levelup.gitconnected.com/stop-using-docker-
 Database Scaling - https://levelup.gitconnected.com/database-scaling-basics-explained-81fb165dbf25
 Free Course on above topic - https://www.skool.com/web-dev-mastery/about
 Job Ready Skills - https://hayk-simonyan.medium.com/learn-web-development-the-right-way-with-support-projects-and-job-ready-skills-0ebdcc66266d
+
+SQL Server Query Performance Optimization Techniques: Turbocharge Your Database Performance - 
+https://levelup.gitconnected.com/sql-server-query-performance-optimization-techniques-turbocharge-your-database-020c7a156a87
