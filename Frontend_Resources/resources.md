@@ -21,3 +21,6 @@ Job Ready Skills - https://hayk-simonyan.medium.com/learn-web-development-the-ri
 
 SQL Server Query Performance Optimization Techniques: Turbocharge Your Database Performance - 
 https://levelup.gitconnected.com/sql-server-query-performance-optimization-techniques-turbocharge-your-database-020c7a156a87
+
+
+Dependency Injection - https://levelup.gitconnected.com/dependency-injection-why-every-developer-should-master-it-dd65075eebaf
