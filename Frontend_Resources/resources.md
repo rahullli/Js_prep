@@ -24,3 +24,8 @@ https://levelup.gitconnected.com/sql-server-query-performance-optimization-techn
 
 
 Dependency Injection - https://levelup.gitconnected.com/dependency-injection-why-every-developer-should-master-it-dd65075eebaf
+
+
+Automate task - https://levelup.gitconnected.com/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-397cc90cb156
+Blog on DRy = https://levelup.gitconnected.com/dry-may-be-more-than-what-you-think-it-is-9834725ffec3
+Synchronize blog not to use - https://levelup.gitconnected.com/stop-using-synchronized-blocks-in-java-b49aa68949c5
