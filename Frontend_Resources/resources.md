@@ -29,3 +29,10 @@ Dependency Injection - https://levelup.gitconnected.com/dependency-injection-why
 Automate task - https://levelup.gitconnected.com/automate-90-of-your-work-with-ai-agents-real-examples-code-inside-397cc90cb156
 Blog on DRy = https://levelup.gitconnected.com/dry-may-be-more-than-what-you-think-it-is-9834725ffec3
 Synchronize blog not to use - https://levelup.gitconnected.com/stop-using-synchronized-blocks-in-java-b49aa68949c5
+
+
+Java Optimizations = http://medium.com/@hxu0407/java-optimization-7000ms-90ms-837d647c59ae
+
+
+
+React Performance Optimizations = https://techmade.medium.com/react-performance-optimization-best-strategies-for-senior-developers-af7e0d0859d6
