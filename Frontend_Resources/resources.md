@@ -36,3 +36,9 @@ Java Optimizations = http://medium.com/@hxu0407/java-optimization-7000ms-90ms-83
 
 
 React Performance Optimizations = https://techmade.medium.com/react-performance-optimization-best-strategies-for-senior-developers-af7e0d0859d6
+Open source tools - https://dipanshu10.medium.com/paying-for-software-is-stupid-open-source-tools-to-destroy-your-saas-expenses-a80303a83ff1
+
+
+
+Interview Experience - 
+https://blog.stackademic.com/amazon-online-assessment-front-end-engineer-javascript-html-css-90c12cc69d2d
