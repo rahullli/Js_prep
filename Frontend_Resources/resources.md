@@ -42,3 +42,5 @@ Open source tools - https://dipanshu10.medium.com/paying-for-software-is-stupid-
 
 Interview Experience - 
 https://blog.stackademic.com/amazon-online-assessment-front-end-engineer-javascript-html-css-90c12cc69d2d
+
+https://brajrajagrawal.medium.com/unlocking-frontend-mastery-25-concepts-you-cant-ignore-part-1-2f97d254ab86
