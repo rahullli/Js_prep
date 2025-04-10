@@ -44,3 +44,6 @@ Interview Experience -
 https://blog.stackademic.com/amazon-online-assessment-front-end-engineer-javascript-html-css-90c12cc69d2d
 
 https://brajrajagrawal.medium.com/unlocking-frontend-mastery-25-concepts-you-cant-ignore-part-1-2f97d254ab86
+
+https://medium.com/design-bootcamp/becoming-a-senior-frontend-engineer-c160ae8d0a6b
+https://medium.com/@sanjeevanibhandari3/how-i-finally-understood-event-loop-with-real-bugs-i-faced-3a1cf75efe70
