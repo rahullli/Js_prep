@@ -53,3 +53,8 @@ https://medium.com/@sanjeevanibhandari3/how-i-finally-understood-event-loop-with
 http://medium.com/@sanjeevanibhandari3/ssr-vs-isr-vs-ssg-which-one-actually-makes-your-site-faster-in-2025-53918e2f32a4?source=post_page---author_recirc--3a1cf75efe70----3---------------------e32931c4_3175_4eca_9f86_1515d579bf2b--------------
 https://medium.com/@sanjeevanibhandari3/how-i-made-my-next-js-app-load-10x-faster-and-you-can-too-30a8b6c86d9c?source=post_page---author_recirc--3a1cf75efe70----1---------------------e32931c4_3175_4eca_9f86_1515d579bf2b--------------
 https://medium.com/@sanjeevanibhandari3/your-map-is-slower-than-you-think-heres-how-to-speed-it-up-7773c25076b3?source=post_page---author_recirc--3a1cf75efe70----0---------------------e32931c4_3175_4eca_9f86_1515d579bf2b--------------
+
+
+
+
+https://medium.com/dev-simplified/why-companies-are-saying-goodbye-to-next-js-11af0a357588
