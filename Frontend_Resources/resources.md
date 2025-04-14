@@ -1,3 +1,5 @@
+https://freedium.cfd/https://medium.com/the-syntax-diaries/the-hidden-cost-of-npm-dependencies-how-we-cut-bundle-size-by-70-overnight-4d913fcf9ddeD
+
 Daily Frontend Practise 
 https://dev.to/dpc/daily-javascript-challenge-js-137-flatten-a-nested-object-5b9k
 https://github.com/requestly/awesome-frontend-resources
