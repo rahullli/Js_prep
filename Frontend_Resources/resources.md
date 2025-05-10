@@ -59,9 +59,13 @@ https://medium.com/@sanjeevanibhandari3/your-map-is-slower-than-you-think-heres-
 
 
 
+
 https://medium.com/dev-simplified/why-companies-are-saying-goodbye-to-next-js-11af0a357588
 
 
 https://medium.com/the-syntax-diaries/stop-using-useeffect-like-this-heres-what-react-architects-do-instead-f0fb09b18246?source=post_page---author_recirc--4d913fcf9dde----0---------------------d7033c2c_c075_419b_8d97_922a8c8254b1--------------
 
 https://medium.com/the-syntax-diaries/stop-using-useeffect-like-this-heres-what-react-architects-do-instead-f0fb09b18246?source=post_page---author_recirc--4d913fcf9dde----0---------------------d7033c2c_c075_419b_8d97_922a8c8254b1--------------
+
+
+https://freedium.cfd/https://medium.com/full-stack-forge/7-react-patterns-that-made-me-a-better-front-end-developer-cf3b38ba16f3
