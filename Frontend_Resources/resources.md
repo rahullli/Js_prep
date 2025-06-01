@@ -7,6 +7,7 @@ https://github.com/codingknite/frontend-development
 https://developer.mozilla.org/en-US/curriculum/
 https://medium.com/@essaadihamza3/mastering-javascript-7-essential-platforms-for-practice-161dc12ebbec
 https://medium.com/@nirpendra09/advanced-react-challenges-8-real-world-problems-that-will-make-you-a-better-developer-416a4460721f
+https://github.com/sadanandpai/frontend-mini-challenges
 
 
 
