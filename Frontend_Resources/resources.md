@@ -45,7 +45,7 @@ Open source tools - https://dipanshu10.medium.com/paying-for-software-is-stupid-
 
 Interview Experience - 
 https://blog.stackademic.com/amazon-online-assessment-front-end-engineer-javascript-html-css-90c12cc69d2d
-
+https://medium.com/frontend-army/my-neurowyzr-frontend-interview-experience-37-lpa-lead-frontend-engineer-0f78387eb10b
 https://brajrajagrawal.medium.com/unlocking-frontend-mastery-25-concepts-you-cant-ignore-part-1-2f97d254ab86
 
 https://medium.com/design-bootcamp/becoming-a-senior-frontend-engineer-c160ae8d0a6b
@@ -70,3 +70,12 @@ https://medium.com/the-syntax-diaries/stop-using-useeffect-like-this-heres-what-
 
 
 https://freedium.cfd/https://medium.com/full-stack-forge/7-react-patterns-that-made-me-a-better-front-end-developer-cf3b38ba16f3
+
+Javascript Interview Practise Questions
+https://medium.com/@rbrudra9439/javascript-tricky-interview-practice-problems-set-1-c26d2326e77d
+
+Topics to Learn - 
+
+1. Event Loop - 
+https://medium.com/@thefrontendfeed/javascript-event-loop-a-complete-guide-for-frontend-interviews-eab0c50d048b
+2. Prototype
