@@ -79,3 +79,12 @@ Topics to Learn -
 1. Event Loop - 
 https://medium.com/@thefrontendfeed/javascript-event-loop-a-complete-guide-for-frontend-interviews-eab0c50d048b
 2. Prototype
+
+
+
+Java 
+https://medium.com/javarevisited/java-interview-questions-for-senior-developer-4285daa84fa5
+
+https://medium.com/javarevisited/java-interview-questions-for-senior-developer-4285daa84fa5
+
+
