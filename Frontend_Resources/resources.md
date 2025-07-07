@@ -88,3 +88,6 @@ https://medium.com/javarevisited/java-interview-questions-for-senior-developer-4
 https://medium.com/javarevisited/java-interview-questions-for-senior-developer-4285daa84fa5
 
 
+https://medium.com/javarevisited/mastering-annotations-from-basics-to-advanced-techniques-6521a3f75098
+
+https://medium.com/javarevisited/java-collections-and-their-thread-safe-versions-9f715c26cace
