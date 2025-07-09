@@ -91,3 +91,6 @@ https://medium.com/javarevisited/java-interview-questions-for-senior-developer-4
 https://medium.com/javarevisited/mastering-annotations-from-basics-to-advanced-techniques-6521a3f75098
 
 https://medium.com/javarevisited/java-collections-and-their-thread-safe-versions-9f715c26cace
+
+
+https://medium.com/@kacar7/dao-data-access-object-in-java-e0a76559e5e5
